@@ -1,2 +1,2 @@
 # LearnPython
-Learning Python Programming
+Learning Python Programming and Artificial Intelligence.
